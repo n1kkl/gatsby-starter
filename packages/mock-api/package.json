@@ -1,0 +1,16 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "casual": "^1.6.2",
+    "lorem-ipsum": "^2.0.8",
+    "lorem-picsum": "^1.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
